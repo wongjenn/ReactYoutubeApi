@@ -1,4 +1,5 @@
 # ReduxSimpleStarter
+created an video app using Youtube api and React
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
