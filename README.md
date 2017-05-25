@@ -1,7 +1,13 @@
 # React Youtube Api
 created an video app using Youtube api and React
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+<p> To run </p>
+<li> git clone repo </li>
+<li> npm install </li>
+<li> npm start </li>
+
+
+Interested in learning [React](https://www.udemy.com/react-redux/)?
 
 ### Getting Started
 
