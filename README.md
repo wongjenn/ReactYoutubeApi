@@ -7,7 +7,7 @@ created an video app using Youtube api and React
 <li> npm start </li>
 
 
-Interested in learning [React](https://www.udemy.com/react-redux/)?
+<p> Interested in learning [React](https://www.udemy.com/react-redux/)? </p>
 
 ### Getting Started
 
